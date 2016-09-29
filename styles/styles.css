@@ -1,0 +1,10 @@
+body {
+    font-size: 62.5%;
+    background: #ffdee3;
+}
+.wrapper {
+    margin: auto;
+    width: 80%;
+    background-color: white;
+    font-family: "Roboto Slab", serif;
+}
