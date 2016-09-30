@@ -7,9 +7,10 @@ body {
 }
 .wrapper {
     margin: auto;
-    width: 65%;
+    width: 75%;
     background-color: white;
-    padding: 2%;
+    padding: 5%;
+    padding-top: 3%;
 }
 h1, h2 {
     font-family: "Amatic SC", serif;
